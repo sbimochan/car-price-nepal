@@ -31,6 +31,15 @@ Please raise an issue if any price change found. If non tech-savvy you can also 
 
 ## M - O
 
+| Model        | Brand | Variant         | Price         |
+| ------------ | ----- | --------------- | ------------- |
+| Nexon EV     | Tata  | XM              | Rs. 38,99,000 |
+| Nexon EV     | Tata  | XZ+             | Rs. 40,99,000 |
+| Nexon EV     | Tata  | XZ+ Lux         | Rs. 42,99,000 |
+| Nexon EV     | Tata  | XZ+ (#Dark)     | RS. 41,99,000 |
+| Nexon EV     | Tata  | XZ+ Lux (#Dark) | Rs. 43,99,000 |
+| Nexon EV Max | Tata  | XZ+ Lux (#Dark) | Rs. 48,99,000 |
+
 ## P - R
 
 ## S - U
