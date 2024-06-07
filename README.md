@@ -23,6 +23,12 @@ Please raise an issue if any price change found. If non tech-savvy you can also 
 
 ## A - C
 
+| Model  | Brand | Variant  | Emission | Price         |
+| ------ | ----- | -------- | -------- | ------------- |
+| Altroz | Tata  | XM       | Petrol   | Rs. 32,55,000 |
+| Altroz | Tata  | XM + BS6 | Petrol   | Rs. 38,99,000 |
+| Altroz | Tata  | XZ       | Petrol   | Rs. 38,55,000 |
+
 ## D - F
 
 ## G - I
@@ -31,18 +37,24 @@ Please raise an issue if any price change found. If non tech-savvy you can also 
 
 ## M - O
 
-| Model        | Brand | Variant         | Price         |
-| ------------ | ----- | --------------- | ------------- |
-| Nexon EV     | Tata  | XM              | Rs. 38,99,000 |
-| Nexon EV     | Tata  | XZ+             | Rs. 40,99,000 |
-| Nexon EV     | Tata  | XZ+ Lux         | Rs. 42,99,000 |
-| Nexon EV     | Tata  | XZ+ (#Dark)     | RS. 41,99,000 |
-| Nexon EV     | Tata  | XZ+ Lux (#Dark) | Rs. 43,99,000 |
-| Nexon EV Max | Tata  | XZ+ Lux (#Dark) | Rs. 48,99,000 |
+| Model        | Brand | Variant         | Emission | Price         |
+| ------------ | ----- | --------------- | -------- | ------------- |
+| Nexon EV     | Tata  | XM              | Electric | Rs. 38,99,000 |
+| Nexon EV     | Tata  | XZ+             | Electric | Rs. 40,99,000 |
+| Nexon EV     | Tata  | XZ+ Lux         | Electric | Rs. 42,99,000 |
+| Nexon EV     | Tata  | XZ+ (#Dark)     | Electric | RS. 41,99,000 |
+| Nexon EV     | Tata  | XZ+ Lux (#Dark) | Electric | Rs. 43,99,000 |
+| Nexon EV Max | Tata  | XZ+ Lux (#Dark) | Electric | Rs. 48,99,000 |
 
 ## P - R
 
 ## S - U
+
+| Model    | Brand | Variant         | Emission | Price         |
+| -------- | ----- | --------------- | -------- | ------------- |
+| Tiago EV | Tata  | LR XT           | Electric | RS. 26,49,000 |
+| Tiago EV | Tata  | LR XZ+          | Electric | RS. 27,99,000 |
+| Tiago EV | Tata  | LR XZ+ Tech Lux | Electric | RS. 28,99,000 |
 
 ## V - X
 
