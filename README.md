@@ -28,8 +28,15 @@ Please raise an issue if any price change found. If non tech-savvy you can also 
 | Altroz | Tata  | XM       | Petrol   | Rs. 32,55,000 |
 | Altroz | Tata  | XM + BS6 | Petrol   | Rs. 38,99,000 |
 | Altroz | Tata  | XZ       | Petrol   | Rs. 38,55,000 |
+| Atto 3 | BYD   | Advanced | Electric | Rs. 55,99,000 |
+| Atto 3 | BYD   | Superior | Electric | Rs. 65,88,000 |
 
 ## D - F
+
+| Model   | Brand | Variant | Emission | Price         |
+| ------- | ----- | ------- | -------- | ------------- |
+| Dolphin | BYD   | 70kW    | Electric | Rs. 39,80,000 |
+| e6      | BYD   | 70kW    | Electric | Rs. 59,00,000 |
 
 ## G - I
 
@@ -50,11 +57,14 @@ Please raise an issue if any price change found. If non tech-savvy you can also 
 
 ## S - U
 
-| Model    | Brand | Variant         | Emission | Price         |
-| -------- | ----- | --------------- | -------- | ------------- |
-| Tiago EV | Tata  | LR XT           | Electric | RS. 26,49,000 |
-| Tiago EV | Tata  | LR XZ+          | Electric | RS. 27,99,000 |
-| Tiago EV | Tata  | LR XZ+ Tech Lux | Electric | RS. 28,99,000 |
+| Model    | Brand | Variant         | Emission | Price           |
+| -------- | ----- | --------------- | -------- | --------------- |
+| Seal     | BYD   | Dynamic         | Electric | RS. 1,05,00,000 |
+| Seal     | BYD   | Premium         | Electric | RS. 1,39,00,000 |
+| Seal     | BYD   | Performance     | Electric | RS. 1,85,00,000 |
+| Tiago EV | Tata  | LR XT           | Electric | RS. 26,49,000   |
+| Tiago EV | Tata  | LR XZ+          | Electric | RS. 27,99,000   |
+| Tiago EV | Tata  | LR XZ+ Tech Lux | Electric | RS. 28,99,000   |
 
 ## V - X
 
